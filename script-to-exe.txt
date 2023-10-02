@@ -1,0 +1,1 @@
+pyinstaller --onefile Huckel_MO-No_Calculator.py
